@@ -32,3 +32,9 @@ media/
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Database files
+*.sqlite3
+db.sqlite3
+*.db
+db.sqlite3
